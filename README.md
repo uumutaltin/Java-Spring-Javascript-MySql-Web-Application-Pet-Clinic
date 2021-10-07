@@ -7,9 +7,8 @@ Açıklama
 | Dil / Yetenek | :arrow_right: | % |
 | ------------- |:-------------:|:-------------:|
 | Java | :arrow_right: | 90 |
-| Hibernate | :arrow_right: | 80 |
+| Spring | :arrow_right: | 90 |
 | HTML | :arrow_right: | 80 |
-| Servlet | :arrow_right: | 80 |
 | Javascript | :arrow_right: | 80 |
 | MySQL | :arrow_right: | 70 |
 
