@@ -1,6 +1,6 @@
 # Java Spring Javascript MySql Web Application Pet Clinic
 
-Açıklama
+Bu proje klinik kullanıcılarının müşteri, ürün, stok, kasa ve laboratuvar gibi işlemleri kontrol edip yönetebilmelerine olanak sağlayan bir otomasyon projesidir.
 
 ## Kullanılan Diller ve Yetenekler
 
